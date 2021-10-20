@@ -11,7 +11,7 @@
 
 ### Android Developer || Web Developer || UI/UX Designer || Project Manager
   
-  * 😁 Nice to meet you! 
+  * Nice to meet you 😁
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicviral&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
