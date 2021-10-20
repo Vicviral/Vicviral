@@ -13,7 +13,7 @@
   
   * 😁 Nice to meet you! 
 
-![githubstats](https://user-images.githubusercontent.com/56683410/138092757-c96a63f2-a8f1-4325-8b22-3eb5f5b4c4f3.png)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victorloveday&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
 
   <h3>Technologies</h3>
 <p>
