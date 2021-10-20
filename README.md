@@ -15,7 +15,7 @@
   
   * 😁 Nice to meet you!  
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Victor Loveday&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victorloveday&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
   
   <h3>Technologies</h3>
 <p>
