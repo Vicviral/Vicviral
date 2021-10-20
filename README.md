@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Instagram" /></a>
 </p>
 
-### Android Developer || Web Developer || UI/UX || Project Manager
+### Android Developer || Web Developer || UI/UX Designer || Project Manager
   
   * 😁 Nice to meet you!  
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorLoveday&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victorloveday&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
   
   <h3>Technologies</h3>
 <p>
