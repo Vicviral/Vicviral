@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Instagram" /></a>
 </p>
 
-### Android Developer || Web Developer || UI/UX Designer || Project Manager
+### Android Engineer (Kotlin/Java) | Project Manager
   
   * Nice to meet you 😁
 
