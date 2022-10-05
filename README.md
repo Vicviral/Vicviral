@@ -3,7 +3,7 @@
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/victor-loveday-4818871a4/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a target="_blank" href="https://www.twitter.com/VictorLoveday7">
+<a target="_blank" href="https://www.twitter.com/vic_viral">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a target="_blank" href="https://www.instagram.com/victorloveday_">
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Instagram" /></a>
