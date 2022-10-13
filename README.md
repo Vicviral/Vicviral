@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Instagram" /></a>
 </p>
 
-### Android Engineer (Kotlin/Java)
+### Mobile Engineer (Kotlin/Java/React Native)
   
   * Nice to meet you 😁
 
